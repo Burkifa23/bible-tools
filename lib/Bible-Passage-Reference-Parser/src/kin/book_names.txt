@@ -38,7 +38,7 @@
 3John	3John
 3Macc	3Macc
 4Macc	4Macc
-Acts	Ibyakozwe N Intumwa
+Acts	Ibyakozwe n'Intumwa
 Acts	Acts
 Amos	Amosi
 Amos	Amos
@@ -48,7 +48,7 @@ Col	Abakolosayi
 Col	Col
 Dan	Daniyeli
 Dan	Dan
-Deut	Gutegeka Kwa Kabiri
+Deut	Gutegeka kwa Kabiri
 Deut	Deut
 Eccl	Umubwiriza
 Eccl	Eccl
@@ -59,7 +59,7 @@ Esth	Esiteri
 Esth	Esth
 Exod	Exod
 Exod	Kuva
-Ezek	Ezekeiyeli
+Ezek	Ezekiyeli
 Ezek	Ezek
 Ezra	Ezira
 Ezra	Ezra
